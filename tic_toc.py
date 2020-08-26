@@ -64,5 +64,3 @@ while True:
     elif is_draw():
         print("Its a draw!")
         break
-
-    
